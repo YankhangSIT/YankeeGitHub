@@ -1,0 +1,11 @@
+﻿  main.c
+  splashscreen.c
+C:\Users\kyk17\source\repos\SplashScreen\src\splashscreen.c(21,28): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\kyk17\source\repos\SplashScreen\src\splashscreen.c(21,40): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\kyk17\source\repos\SplashScreen\src\splashscreen.c(21,51): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\kyk17\source\repos\SplashScreen\src\splashscreen.c(21,62): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  SplashScreen.vcxproj -> C:\Users\kyk17\source\repos\SplashScreen\x64\Debug\SplashScreen.exe
+  1 File(s) copied
+  1 File(s) copied
+  1 File(s) copied
